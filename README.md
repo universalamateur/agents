@@ -1,5 +1,9 @@
 # agents
 
+![Project logo](./logo.png)
+
+[Lead repository on GitLab](https://gitlab.com/universalamateur1/agents)
+
 
 
 ## Getting started
